@@ -1,2 +1,2 @@
-# Booking
+# Project Plan
 Final Project repo
