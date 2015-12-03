@@ -56,26 +56,45 @@ z = Consistency check within UI design -- A checkpoint to make sure that each me
 
 aa = Review before sumbission -- A final review of all parts of project before submission
 
+### Diagram
 
 <html>
 <table border="1" cellspacing="10">
-<tr><th>Dependecy List</th></tr>
-<tr border="1">
-<td>Task:Review<br>
-Duration 1 Day
-<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td>
-<td>Task:Review<br>
-Duration 1 Day
-<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td>
-</tr>
 <tr>
-<td>Task:Review<br>
+<td>Task:Initial UI Design<br>
 Duration 1 Day
-<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 16</span>
+</td>
+<td>Task:UI Design<br>
+Duration 1 Day
+<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 17</span>
+</td>
+<td>Task:Review Before Submission<br>
+Duration 1 Day
+<br><span>ES&nbsp</span><span>&nbspEF December 18</span><br><span>LS&nbsp</span><span>&nbsp LF December 18</span>
 </td>
 </tr>
+
+
+<tr>
+<td>Task:Create Presentation<br>
+Duration 1 Day
+<br><span>ES&nbsp</span><span>&nbspEF December 17</span><br><span>LS&nbsp</span><span>&nbsp LF December 17</span>
+</td>
+
+<td>Task:Review Presentation<br>
+Duration 1 Day
+<br><span>ES&nbsp</span><span>&nbspEF December 18</span><br><span>LS&nbsp</span><span>&nbsp LF December 18</span>
+</td>
+
+<td>Task:Present<br>
+Duration <1 Day
+<br><span>ES&nbsp</span><span>&nbspEF December 19</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td>
+
+</tr>
+
+
 </table>
 
 </html>
