@@ -1,9 +1,68 @@
 ###PDM Timeline for parts 4 and 5
+Diagram flows from top down. Each row represents a new stage of development until the final presentation.
+### Diagram
 
-######Full Dependecy List
+<html>
+<table border="1" cellspacing="10">
+<tr>
+<td vertical-align"center">Level 1</td>
+<td>Task: Initial Design<br>
+Duration 1 Day
+Dependencies: None
+<br><span>ES December 03&nbsp</span><span>&nbspEF December 04</span><br><span>LS December 11&nbsp</span><span>&nbsp LF December 12</span>
+</td></tr>
+
+<tr>
+<td vertical-align"center">Level 2</td>
+<td>Task:Consistency Check<br>
+Duration 1 Day
+Dependencies: Initial Design
+<br><span>ES December 04&nbsp</span><span>&nbspEF December 05</span><br><span>LS December 14&nbsp</span><span>&nbsp LF December 15</span>
+</td>
+<td>Task:UI Design<br>
+Duration: 3 Days
+Dependencies: Initial Desgin
+<br><span>ES December 04&nbsp</span><span>&nbspEF December 07</span><br><span>LS December 12&nbsp</span><span>&nbsp LF December 15</span>
+</td></tr>
+
+<tr>
+<td vertical-align"center">Level 3</td>
+<td>Task:Overview / Writeup<br>
+Duration 1 Day
+Dependencies: Consistency Check & UI Design 
+<br><span>ES December 07&nbsp</span><span>&nbspEF December 08</span><br><span>LS December 15&nbsp</span><span>&nbsp LF December 16</span>
+</td></tr>
+
+<tr>
+<td vertical-align"center">Level 4</td>
+<td>Task:Create Presentation<br>
+Duration 1 Day
+Dependencies: Overview / Writeup &  Consistency Check & UI Design 
+<br><span>ES December 08&nbsp</span><span>&nbspEF December 09</span><br><span>LS December 16&nbsp</span><span>&nbsp LF December 17</span>
+</td></tr>
+
+<tr>
+<td>Level 5</td>
+<td>Task:Review Presentation<br>
+Duration 1 Day
+Dependencies Overview & Create Presentation
+<br><span>ES December 09&nbsp</span><span>&nbspEF December 10</span><br><span>LS December 17&nbsp</span><span>&nbsp LF December 18</span>
+</td></tr>
+
+<tr>
+<td vertical-align"center">Level 6</td>
+<td>Task:Present / Submit Documents<br>
+Duration: 1 Day
+Dependencies: Review Presentation
+<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS December 18 &nbsp</span><span>&nbsp LF December 19</span></td></tr>
+
+</table>
+
+</html>
+
+####Full Dependecy List
 Tasks:
 a = Home Page
-
 b = Select hotels, flights, cars , or packages. Enter Location, Dates, and number of people.
 
 c = Hotels View
@@ -26,7 +85,7 @@ k = Cars View
 
 l = View different vehicle options. Economy, compact, intermediate, standard.
 
-m = View itinerary summary and complete registration information. Add Rental car insurance
+m = View itinerary summary and complete registration information. Add Rental car insurance\
 
 n = Packages View
 
@@ -55,52 +114,3 @@ y = UI Design -- the actual creation / design of UI mockups Review upon halfway 
 z = Consistency check within UI design -- A checkpoint to make sure that each member has consistent design with their UI mockups Final
 
 aa = Review before sumbission -- A final review of all parts of project before submission
-
-### Diagram
-
-<html>
-<table border="1" cellspacing="10">
-<tr><td>Task: Initial Design<br>
-Duration 1 Day
-Dependencies: None
-<br><span>ES December 03&nbsp</span><span>&nbspEF December 04</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td></tr>
-
-<tr><td>Task:Consistency Check<br>
-Duration 1 Day
-Dependencies: Initial Design
-<br><span>ES December 04&nbsp</span><span>&nbspEF December 05</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td>
-<td>Task:UI Design<br>
-Duration: 3 Days
-Dependencies: Initial Desgin
-<br><span>ES December 04&nbsp</span><span>&nbspEF December 07</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td></tr>
-
-<tr><td>Task:Overview / Writeup<br>
-Duration 1 Day
-Dependencies: Consistency Check & UI Design 
-<br><span>ES December 07&nbsp</span><span>&nbspEF December 08</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td></tr>
-
-<tr><td>Task:Create Presentation<br>
-Duration 1 Day
-Dependencies: Overview / Writeup &  Consistency Check & UI Design 
-<br><span>ES December 08&nbsp</span><span>&nbspEF December 09</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td></tr>
-
-<tr>
-<td>Task:Review Presentation<br>
-Duration 1 Day
-Dependencies Overview & Create Presentation
-<br><span>ES December 09&nbsp</span><span>&nbspEF December 10</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td></tr>
-
-<tr><td>Task:Present / Submit Documents<br>
-Duration: 1 Day
-Dependencies: Review Presentation
-<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS December 18 &nbsp</span><span>&nbsp LF December 19</span></td></tr>
-
-</table>
-
-</html>
