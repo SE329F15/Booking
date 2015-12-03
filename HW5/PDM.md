@@ -60,28 +60,46 @@ aa = Review before sumbission -- A final review of all parts of project before s
 
 <html>
 <table border="1" cellspacing="10">
-
-<tr><td>Task:Present / Submit Documents<br>
+<tr><td>Task: Initial Design<br>
 Duration 1 Day
-Dependencies 
-<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+Dependencies: None
+<br><span>ES December 03&nbsp</span><span>&nbspEF December 04</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td></tr>
+
+<tr><td>Task:Consistency Check<br>
+Duration 1 Day
+Dependencies: Initial Design
+<br><span>ES December 04&nbsp</span><span>&nbspEF December 05</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td>
+<td>Task:UI Design<br>
+Duration: 3 Days
+Dependencies: Initial Desgin
+<br><span>ES December 04&nbsp</span><span>&nbspEF December 07</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td></tr>
+
+<tr><td>Task:Overview / Writeup<br>
+Duration 1 Day
+Dependencies: Consistency Check & UI Design 
+<br><span>ES December 07&nbsp</span><span>&nbspEF December 08</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td></tr>
+
+<tr><td>Task:Create Presentation<br>
+Duration 1 Day
+Dependencies: Overview / Writeup &  Consistency Check & UI Design 
+<br><span>ES December 08&nbsp</span><span>&nbspEF December 09</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
 </td></tr>
 
 <tr>
-<td>Task:Present / Submit Documents<br>
+<td>Task:Review Presentation<br>
 Duration 1 Day
 Dependencies Overview & Create Presentation
-<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td>
-</tr
-<tr>
-<td>Task:Present / Submit Documents<br>
-Duration 1 Day
-Dependencies Review Presentation
-<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
-</td>
-</tr>
+<br><span>ES December 09&nbsp</span><span>&nbspEF December 10</span><br><span>LS&nbsp</span><span>&nbsp LF December 19</span>
+</td></tr>
 
+<tr><td>Task:Present / Submit Documents<br>
+Duration: 1 Day
+Dependencies: Review Presentation
+<br><span>ES December 10&nbsp</span><span>&nbspEF December 11</span><br><span>LS December 18 &nbsp</span><span>&nbsp LF December 19</span></td></tr>
 
 </table>
 
