@@ -67,9 +67,9 @@ Dependencies: Review Presentation
 
 ##### User Interface & Initial Design & Consistency Check 
 
-###### *  Initial Deisgn - a process to layout how the project will be designed.
-###### * User Interface - the actual construction of the sketches.
-###### * Consistency check within UI design - A checkpoint to make sure that each member has consistent design with their UI mockups Final
+###### Initial Deisgn - a process to layout how the project will be designed.
+###### User Interface - the actual construction of the sketches.
+###### Consistency check within UI design - A checkpoint to make sure that each member has consistent design with their UI mockups Final
 
 Home Page
 
@@ -107,12 +107,16 @@ Display deals from Orbitz, CheapTickets, Travelocity, and others
 Reports
 
 ##### Create & Review Presentation
-###### * Create Presentation - The writing process of the class presentation
-###### * Review Presentation - A final review to make sure all members are up to date and consistent with project
+######  Create Presentation - The writing process of the class presentation
+######  Review Presentation - A final review to make sure all members are up to date and consistent with project
 
 Slides - Report notes that will be used as aid in presentation
+
 Maintenance / Updates
 
 ##### Present & Submit Documents
 Review before sumbission - A final review of all parts of project before submission
+
 Present - Class Presentation
+
+
