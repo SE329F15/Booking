@@ -1,5 +1,5 @@
 ###PDM Timeline for parts 4 and 5
-Diagram flows from top down. Each row represents a new stage of development until the final presentation.
+Diagram flows from top down. Each row represents a new stage of development until the final presentation. A level cannot be considered completed until all levels prior have been completed.
 ### Diagram
 
 <html>
@@ -61,56 +61,58 @@ Dependencies: Review Presentation
 </html>
 
 ####Full Dependecy List
-Tasks:
-a = Home Page
-b = Select hotels, flights, cars , or packages. Enter Location, Dates, and number of people.
 
-c = Hotels View
 
-d = View all hotel details. This shows the map, photos, ratings, reviews
 
-e = Compare results, showing the different competitors prices
 
-f = View & Create Reviews. Allows for scoring from 1 - 10.
+##### User Interface & Initial Design & Consistency Check 
 
-g = Flights View
+###### *  Initial Deisgn - a process to layout how the project will be designed.
+###### * User Interface - the actual construction of the sketches.
+###### * Consistency check within UI design - A checkpoint to make sure that each member has consistent design with their UI mockups Final
 
-h = Change the dates, location, or number of occupants
+Home Page
 
-i = Compare various airline prices and select flight
+Select hotels, flights, cars , or packages. Enter Location, Dates, and number of people.
 
-j = Get baggage fee information
+Hotels View
 
-k = Cars View
+View all hotel details. This shows the map, photos, ratings, reviews
 
-l = View different vehicle options. Economy, compact, intermediate, standard.
+Compare results, showing the different competitors prices
 
-m = View itinerary summary and complete registration information. Add Rental car insurance\
+View & Create Reviews. Allows for scoring from 1 - 10.
 
-n = Packages View
+Flights View
 
-o = Display deals from Orbitz, CheapTickets, Travelocity, and others
+Change the dates, location, or number of occupants
 
-p = Reports
+Compare various airline prices and select flight
 
-q = Overview / Writeup -- Final Report to be submitted along with UI sketches and presentation Create Notes for Presentation
+Get baggage fee information
 
-r = Slides -- Report notes that will be used as aid in presentation
+Cars View
 
-s = Presentation
+View different vehicle options. Economy, compact, intermediate, standard.
 
-t = Create Presentation -- The writing process of the class presentation
+View itinerary summary and complete registration information. Add Rental car insurance\
 
-u = Review Presentation -- A final review to make sure all members are up to date and consistent with project
+Packages View
 
-v = Present -- Class Presentation
+Display deals from Orbitz, CheapTickets, Travelocity, and others
 
-w = Maintenance / Updates
 
-x = Initial Design -- a process to layout how the project will be designed (basically this homework)
+##### Overview / Writeup - Final Report to be submitted along with UI sketches and presentation Create Notes for Presentation
 
-y = UI Design -- the actual creation / design of UI mockups Review upon halfway point to make sure design is correct -- A checkpoint to review project and make sure design is being followed.
+Reports
 
-z = Consistency check within UI design -- A checkpoint to make sure that each member has consistent design with their UI mockups Final
+##### Create & Review Presentation
+###### * Create Presentation - The writing process of the class presentation
+###### * Review Presentation - A final review to make sure all members are up to date and consistent with project
 
-aa = Review before sumbission -- A final review of all parts of project before submission
+Slides - Report notes that will be used as aid in presentation
+Maintenance / Updates
+
+##### Present & Submit Documents
+Review before sumbission - A final review of all parts of project before submission
+Present - Class Presentation
