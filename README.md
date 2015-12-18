@@ -15,4 +15,7 @@
 * [Sketches](https://github.com/SE329F15/Final-Project/tree/master/Project/ScreenSketches)
 * [Presentation](https://github.com/SE329F15/Final-Project/tree/master/Project)
 
-
+#####Resources Used For This Project
+* Github.com
+* FluidUI
+* Google Docs
