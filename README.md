@@ -13,5 +13,6 @@
 * [HW6](https://github.com/SE329F15/Final-Project/tree/master/HW6)
 * [HW7](https://github.com/SE329F15/Final-Project/tree/master/HW7)
 * [Sketches](https://github.com/SE329F15/Final-Project/tree/master/Project/ScreenSketches)
+* [Presentation](https://github.com/SE329F15/Final-Project/tree/master/Project)
 
 
