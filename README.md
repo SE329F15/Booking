@@ -10,5 +10,8 @@
 
 #####Links
 * [HW5](https://github.com/SE329F15/Final-Project/tree/master/HW5)
+* [HW6](https://github.com/SE329F15/Final-Project/tree/master/HW6)
+* [HW7](https://github.com/SE329F15/Final-Project/tree/master/HW7)
+* [Sketches](https://github.com/SE329F15/Final-Project/tree/master/project/Screen%20sketches)
 
 
